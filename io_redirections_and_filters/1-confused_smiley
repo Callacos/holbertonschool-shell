@@ -1,2 +1,2 @@
 #!/bin/bash
-touch smiley.sh
+echo "(Ôo)'"
